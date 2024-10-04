@@ -23,21 +23,7 @@ Your goal is to **dodge the pillars** and survive as long as you can. Each time 
 
 Here’s a sneak peek of what you can expect on your terminal:
 
-```
-    Score: 12
-    -------------
-    |           |
-    |           |
-    |    /\     |
-    |   (o o)   |
-    |   ( - )   |
-    |    \/     |
-    |           |
-    |   @@@@@   |
-    |           |
-    |   @@@@@   |
-    -------------
-```
+TBD
 
 ## Installation & Running the Game 🛠️
 
