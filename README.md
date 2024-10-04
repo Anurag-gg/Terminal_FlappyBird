@@ -21,9 +21,7 @@ Your goal is to **dodge the pillars** and survive as long as you can. Each time 
 
 ## Screenshots 🖼️
 
-Here’s a sneak peek of what you can expect on your terminal:
-
-TBD
+![Game-sneak-peek](https://github.com/user-attachments/assets/a098a3b5-f6df-4b09-a099-857e04063f67)
 
 ## Installation & Running the Game 🛠️
 
@@ -36,26 +34,18 @@ python --version
 ### 2. Clone the Repository:
 Clone this repo to get started:
 ```bash
-git clone https://github.com/your-repo/flappy-bird-terminal.git
-cd flappy-bird-terminal
+https://github.com/Anurag-gg/Terminal_FlappyBird.git
+cd Terminal_FlappyBird
 ```
 
 ### 3. Run the Game:
 Fire up your terminal and run the game by executing:
 ```bash
-python flappy.py
+python main.py
 ```
 
 Make sure your terminal window is large enough (at least **30x120**).
 
-## Code Overview 💻
-
-This game is powered by Python’s `curses` module. Here's a brief rundown of the key parts of the code:
-
-- **`main(stdscr)`**: The main game loop. It handles input, updates the game state, and refreshes the screen.
-- **`getBird(...)`**: Manages the bird's position and handles gravity and user input.
-- **`getPillar(...)`**: Generates the moving pillars.
-- **`endScreen(stdscr)`**: Displays the game over screen along with your score.
 
 ## Contributing 🤝
 
